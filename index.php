@@ -76,7 +76,7 @@
                     </div>
                 </nav>
             </div>
-
+<div class="container">
      <div id="carousel">
     <div id="carouselExampleIndicators" class="carousel slide m-auto border-bottom border-dark py-5"
       data-bs-ride="carousel" style="max-width: 100%;">
