@@ -330,6 +330,7 @@
         <p>Dirección: Los alamos 4567</p>
         <p>Teléfono +78 - 456 78 90</p>
         <P>Contacto Ventas: ventas@fullmarket.com</P>
+         <span class="copyright">Copyright &copy; AR <?php echo date("Y") ?> Created By <a href="https://portafolioweb-a3el.onrender.com/" target="_blank">Adrian Ramos</a> </span>
     </Div>
     <!--referencia a nuestro codigo java que descargamos desde Bootstrap-->
     <script src="js/jquery-3.4.1.min.js"></script>
