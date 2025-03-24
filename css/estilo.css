@@ -1,0 +1,26 @@
+#cargando {
+    display: none;
+}
+
+/*2. Carousel */
+
+.carousel-indicators {
+    position: absolute;
+    background-color: #DC3545;
+    color: black;
+}
+
+
+/* Burbuja del número de productos */
+.cart-count {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 50%;
+    display: none; /* Oculto inicialmente */
+}
