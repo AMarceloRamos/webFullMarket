@@ -88,8 +88,8 @@
       </div>
       <div class="carousel-inner ">
         <div class="carousel-item active">
-          <img src="img/imageBanner1.png" class="d-inline-flex m-1" width="50%" alt="...">
-          <img src="img/computacion.png" class="d-inline-flex  m-1" width="50%"  alt="...">
+          <img src="img/imageBanner1.png" class="d-inline-flex m-1" width="233px" height="170px" alt="...">
+          <img src="img/computacion.png" class="d-inline-flex  m-1"  width="233px" height="170px"  alt="...">
           <img src="img/jardineria.png" class="d-inline-flex  m-1" width="233px" height="170px" alt="...">
           <img src="img/lineaBlanca.png" class="d-inline-flex m-1" width="233px" height="170px"
             alt="...">
